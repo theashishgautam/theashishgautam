@@ -1,16 +1,21 @@
-## Hi there 👋
+Welcome to my GitHub!
+I'm passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun).
+I enjoy working with data to identify trends, understand business problems, and create data-driven solutions. Here, you'll find Data Analyst portfolio showcasing projects in Power BI, SQL, Excel, and data visualisation.
 
-<!--
-**theashishgautam/theashishgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Tools
+• SQL
+• Power BI
+• Advanced Excel
+• DAX
+• Power Query
+• Data Analysis
 
-Here are some ideas to get you started:
+Currently Learning
+• Python
+• Statistics
+• Data Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect, learn, and grow together. Open to new opportunities, collaborations, and conversations around Data Analytics and Business Intelligence.
+
+LinkedIn:www.linkedin.com/in/theashishgautam
+Email: ashishgautam323@gmail.com
